@@ -2,8 +2,8 @@
 
 Hi! My name is Nailya Alimova (Nailya Alim). 
 
-I'm currently a rising senior at Simmons University majoring in Financial Mathematics, Mathematical Sciences, and Data Science and AI.
-As an AI research fellow at MIT Break Through Tech Program, I am passionate about advancing my skills in statistical modeling, supervised and unsupervised machine learning, and generative AI.
+I'm a senior at Simmons University majoring in Financial Mathematics, Mathematical Sciences, and Data Science and AI.
+As an AI research fellow at MIT Break Through Tech Program, I am passionate about advancing my skills in statistical modeling, machine learning, and generative AI.
 
 ---
 
@@ -38,9 +38,9 @@ It serves as a dynamic portfolio to document my learning journey and share insig
 Machine Learning project aimed at predicting whether individuals earn above or below the $50K income threshold by leveraging socioeconomic features.
 - **Blog Post:** [Read it here](https://github.com/naiilya/adult_census_project_MIT)
 
-#### "Adult" (Census) Project for the Break Through Tech Program at Massachusetts Institute of Technology
+#### "Pennywise" Financial Literacy Large Language Model created with the Break Through Tech Program Fellows at Massachusetts Institute of Technology uder the supervision of OpenAI Member of Technical Staff
 - **Summary:**
-Machine Learning project aimed at predicting whether individuals earn above or below the $50K income threshold by leveraging socioeconomic features.
+
 - **Blog Post:** [Read it here](https://github.com/RealAndrewRen/Pennywise) 
 
 

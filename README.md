@@ -3,6 +3,7 @@
 Hi! My name is Nailya Alimova (Nailya Alim). 
 
 I'm a senior at Simmons University majoring in Financial Mathematics, Mathematical Sciences, and Data Science and AI.
+
 As an AI research fellow at MIT Break Through Tech Program, I am passionate about advancing my skills in statistical modeling, machine learning, and generative AI.
 
 ---
@@ -40,6 +41,15 @@ Machine Learning project aimed at predicting whether individuals earn above or b
 
 #### "Pennywise" Financial Literacy Large Language Model created with the Break Through Tech Program Fellows at Massachusetts Institute of Technology uder the supervision of OpenAI Member of Technical Staff
 - **Summary:**
+
+Developed a machine learning model using a GPT-2 small (124M) model transformer fine-tuned with supervised instruction data to address the challenge of building a finance-domain conversational assistant.
+
+Achieved substantial improvements in domain-specific response quality compared to the base model, demonstrating strong applicability for finance-related support.
+
+Generated actionable insights by analyzing conversation patterns and user intents, helping inform feature planning and product direction.
+
+Implemented a structured SFT (Supervised Fine-Tuning) pipeline optimized for small-to-medium datasets, addressing constraints around limited compute and reproducibility expectations.
+
 
 - **Blog Post:** [Read it here](https://github.com/RealAndrewRen/Pennywise) 
 

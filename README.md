@@ -1,8 +1,8 @@
 # Dear GitHub users! Welcome to My Technical Portfolio! 
 
-Hi! My name is Nailya Alimova (Alim). 
+Hi! My name is Nailya Alimova (Nailya Alim). 
 
-I'm currently a rising senior at Simmons University majoring in Financial Mathematics, Mathematical Sciences, and Data Science.
+I'm currently a rising senior at Simmons University majoring in Financial Mathematics, Mathematical Sciences, and Data Science and AI.
 As an AI research fellow at MIT Break Through Tech Program, I am passionate about advancing my skills in statistical modeling, supervised and unsupervised machine learning, and generative AI.
 
 ---

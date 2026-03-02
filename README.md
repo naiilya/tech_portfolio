@@ -38,6 +38,12 @@ It serves as a dynamic portfolio to document my learning journey and share insig
 Machine Learning project aimed at predicting whether individuals earn above or below the $50K income threshold by leveraging socioeconomic features.
 - **Blog Post:** [Read it here](https://github.com/naiilya/adult_census_project_MIT)
 
+#### "Adult" (Census) Project for the Break Through Tech Program at Massachusetts Institute of Technology
+- **Summary:**
+Machine Learning project aimed at predicting whether individuals earn above or below the $50K income threshold by leveraging socioeconomic features.
+- **Blog Post:** [Read it here](https://github.com/RealAndrewRen/Pennywise) 
+
+
 ### Mini-Projects for the Data Science Course at Simmons
 
 #### Project 1: Does Money Buy Happiness?

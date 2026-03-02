@@ -11,10 +11,6 @@ As an AI research fellow at MIT Break Through Tech Program, I am passionate abou
 - [Bio](#bio)
 - [Site Purpose](#site-purpose)
 - [Projects](#projects)
-  - [Mini-Projects](#stat228-mini-projects)
-  - [Final Project](#stat228-final-project)
-  - [Additional Projects](#additional-projects)
-
 ---
 
 ## Bio
@@ -37,6 +33,11 @@ It serves as a dynamic portfolio to document my learning journey and share insig
 
 ## Projects
 
+#### "Adult" (Census) Project for the Break Through Tech Program at Massachusetts Institute of Technology
+- **Summary:**
+Machine Learning project aimed at predicting whether individuals earn above or below the $50K income threshold by leveraging socioeconomic features.
+- **Blog Post:** [Read it here](https://github.com/naiilya/adult_census_project_MIT)
+
 ### Mini-Projects for the Data Science Course at Simmons
 
 #### Project 1: Does Money Buy Happiness?
@@ -49,21 +50,7 @@ It serves as a dynamic portfolio to document my learning journey and share insig
   Hands-on tutorial based on the Economic Freedom of the World Report (2022).
 - **Blog Post:** [Read it here](https://github.com/naiilya/economic-freedom-world-report-miniproject2)
 
----
-
-### Final Project for the Data Science Course at Simmons
-
-#### Project 3: Risk Modeling with Random Forest and Logistic Regression.
+#### Project 3: Risk Modeling with Random Forest and Logistic Regression
 - **Summary:**
   Project on Predicting Loan Repayment Outcomes During GFC.
 - **Blog Post:** [Read it here](https://github.com/naiilya/final-project-stat228)
-
----
-
-### Additional Projects
-
-#### "Adult" (Census) Project for the Break Through Tech Program at Massachusetts Institute of Technology
-- **Summary:**
-Machine Learning project aimed at predicting whether individuals earn above or below the $50K income threshold by leveraging socioeconomic features.
-- **Blog Post:** [Read it here](https://github.com/naiilya/adult_census_project_MIT)
----

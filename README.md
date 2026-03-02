@@ -34,11 +34,6 @@ It serves as a dynamic portfolio to document my learning journey and share insig
 
 ## Projects
 
-#### "Adult" (Census) Project for the Break Through Tech Program at Massachusetts Institute of Technology
-- **Summary:**
-Machine Learning project aimed at predicting whether individuals earn above or below the $50K income threshold by leveraging socioeconomic features.
-- **Blog Post:** [Read it here](https://github.com/naiilya/adult_census_project_MIT)
-
 #### "Pennywise" Financial Literacy Large Language Model created with the Break Through Tech Program Fellows at Massachusetts Institute of Technology uder the supervision of OpenAI Member of Technical Staff
 - **Summary:** Developed a machine learning model using a GPT-2 small (124M) model transformer fine-tuned with supervised instruction data to address the challenge of building a finance-domain conversational assistant.
 Achieved substantial improvements in domain-specific response quality compared to the base model, demonstrating strong applicability for finance-related support.
@@ -46,20 +41,26 @@ Generated actionable insights by analyzing conversation patterns and user intent
 Implemented a structured SFT (Supervised Fine-Tuning) pipeline optimized for small-to-medium datasets, addressing constraints around limited compute and reproducibility expectations.
 - **Blog Post:** [Read it here](https://github.com/RealAndrewRen/Pennywise) 
 
+#### "Adult" (Census) Project for the Break Through Tech Program at Massachusetts Institute of Technology
+- **Summary:**
+Machine Learning project aimed at predicting whether individuals earn above or below the $50K income threshold by leveraging socioeconomic features.
+- **Blog Post:** [Read it here](https://github.com/naiilya/project_1_MIT)
+
+
 
 ### Mini-Projects for the Data Science Course at Simmons
 
 #### Project 1: Does Money Buy Happiness?
 - **Summary:**
   This project addresses the question “does money buy happiness?” from the perspective of the global “happiness score” and its correlation to GDP per capita.
-- **Blog Post:** [Read it here](https://github.com/naiilya/does-money-buy-happiness-miniproject1)
+- **Blog Post:** [Read it here](https://github.com/naiilya/does-money-buy-happiness)
   
 #### Project 2: Data Wrangling Tutorial!
 - **Summary:**
   Hands-on tutorial based on the Economic Freedom of the World Report (2022).
-- **Blog Post:** [Read it here](https://github.com/naiilya/economic-freedom-world-report-miniproject2)
+- **Blog Post:** [Read it here](https://github.com/naiilya/economic-freedom-world-report)
 
 #### Project 3: Risk Modeling with Random Forest and Logistic Regression
 - **Summary:**
   Project on Predicting Loan Repayment Outcomes During GFC.
-- **Blog Post:** [Read it here](https://github.com/naiilya/final-project-stat228)
+- **Blog Post:** [Read it here](https://github.com/naiilya/risk-modeling-project)

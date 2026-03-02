@@ -27,7 +27,8 @@ As an AI research fellow at MIT Break Through Tech Program, I am passionate abou
 
 ## Site Purpose
 
-This GitHub blog is designed to showcase my academic projects and research initiatives in finance and data science.  
+This GitHub blog is designed to showcase my academic projects and research initiatives in finance and data science. 
+
 It serves as a dynamic portfolio to document my learning journey and share insights with the broader community.
 
 ---

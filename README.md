@@ -40,17 +40,10 @@ Machine Learning project aimed at predicting whether individuals earn above or b
 - **Blog Post:** [Read it here](https://github.com/naiilya/adult_census_project_MIT)
 
 #### "Pennywise" Financial Literacy Large Language Model created with the Break Through Tech Program Fellows at Massachusetts Institute of Technology uder the supervision of OpenAI Member of Technical Staff
-- **Summary:**
-
-Developed a machine learning model using a GPT-2 small (124M) model transformer fine-tuned with supervised instruction data to address the challenge of building a finance-domain conversational assistant.
-
+- **Summary:** Developed a machine learning model using a GPT-2 small (124M) model transformer fine-tuned with supervised instruction data to address the challenge of building a finance-domain conversational assistant.
 Achieved substantial improvements in domain-specific response quality compared to the base model, demonstrating strong applicability for finance-related support.
-
 Generated actionable insights by analyzing conversation patterns and user intents, helping inform feature planning and product direction.
-
 Implemented a structured SFT (Supervised Fine-Tuning) pipeline optimized for small-to-medium datasets, addressing constraints around limited compute and reproducibility expectations.
-
-
 - **Blog Post:** [Read it here](https://github.com/RealAndrewRen/Pennywise) 
 
 

@@ -2,7 +2,7 @@
 
 Hi! My name is Nailya Alimova (Nailya Alim). 
 
-I'm a senior at Simmons University majoring in Financial Mathematics, Mathematical Sciences, and Data Science and AI.
+I'm a Simmons University  &  MIT alumna with majors in Financial Mathematics, Data Science, and Mathematical Sciences.
 
 As an AI research fellow at MIT Break Through Tech Program, I am passionate about advancing my skills in statistical modeling, machine learning, and generative AI.
 
